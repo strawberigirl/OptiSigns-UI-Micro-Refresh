@@ -36,7 +36,7 @@ This redesign was approached with the idea that a more unified and consistent to
 
 If the toolbar buttons are refreshed to improve clarity, hierarchy, and branding consistency, users will navigate the editor more efficiently. This could lead to higher feature discovery, faster editing sessions, and lower friction for new users
 
-### A/B Test Outline:
+## A/B Test Outline:
 
 **Metric:**
 CTR and usage rates of all toolbar buttons (e.g., how often each is clicked and interacted with).
