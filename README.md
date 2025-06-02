@@ -28,7 +28,7 @@ This redesign was approached with the idea that a more unified and consistent to
 
 **Labeling & Icon Clarity**: More accurate labeling. (eg. Elements shouldn't only contain "Shapes + Elements")
 
-**Color & Style**: All states matche OptiSigns’ branding and meet WCAG 2.2 AA contrast requirements.
+**Color & Style**: All states match OptiSigns’ branding and meet WCAG 2.2 AA contrast requirements.
 
 **Motion & Feedback**: Hover and active states now provide responsive visual feedback to improve usability.
 
