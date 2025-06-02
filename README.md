@@ -2,7 +2,7 @@
 
 ## Figma Design File
 
-[Designs and Prototype](https://strawberigirl.github.io/)
+[Designs and Prototype](https://www.figma.com/design/TvAVeB5wpu5SeUCU51lz65/OptiSigns-UI-Micro-Refresh?node-id=0-1&t=AWxiDcdE5xQ6j4un-1)
 
 ## GitHub Pages Live Preview
 
@@ -43,7 +43,7 @@ CTR and usage rates of all toolbar buttons (e.g., how often each is clicked and 
 
 **Sample Size Guess:**
 ~250 users per version.
-This will give enough data to find a signifigant increase in interaction rate.
+This will give enough data to find a significant increase in interaction rate.
 
 **Success Threshold:**
 Around a 10-15% increase goal for confidence.
