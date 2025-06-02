@@ -1,8 +1,10 @@
 # OptiSigns-UI-Micro-Refresh
 
-##Setup
+## Setup
 Clone this repo
+
 Go to src folder
+
 Run index.html
 
 ## Figma Design File
